@@ -1,0 +1,7 @@
+D:\visualStudioCodePractice\firstSolution\prac01\bin\Debug\prac01.exe.config
+D:\visualStudioCodePractice\firstSolution\prac01\bin\Debug\prac01.exe
+D:\visualStudioCodePractice\firstSolution\prac01\bin\Debug\prac01.pdb
+D:\visualStudioCodePractice\firstSolution\prac01\obj\Debug\prac01.csprojAssemblyReference.cache
+D:\visualStudioCodePractice\firstSolution\prac01\obj\Debug\prac01.csproj.CoreCompileInputs.cache
+D:\visualStudioCodePractice\firstSolution\prac01\obj\Debug\prac01.exe
+D:\visualStudioCodePractice\firstSolution\prac01\obj\Debug\prac01.pdb

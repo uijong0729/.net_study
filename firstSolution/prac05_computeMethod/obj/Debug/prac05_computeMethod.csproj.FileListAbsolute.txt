@@ -1,0 +1,7 @@
+D:\visualStudioCodePractice\firstSolution\prac05_computeMethod\bin\Debug\prac05_computeMethod.exe.config
+D:\visualStudioCodePractice\firstSolution\prac05_computeMethod\bin\Debug\prac05_computeMethod.exe
+D:\visualStudioCodePractice\firstSolution\prac05_computeMethod\bin\Debug\prac05_computeMethod.pdb
+D:\visualStudioCodePractice\firstSolution\prac05_computeMethod\obj\Debug\prac05_computeMethod.csprojAssemblyReference.cache
+D:\visualStudioCodePractice\firstSolution\prac05_computeMethod\obj\Debug\prac05_computeMethod.csproj.CoreCompileInputs.cache
+D:\visualStudioCodePractice\firstSolution\prac05_computeMethod\obj\Debug\prac05_computeMethod.exe
+D:\visualStudioCodePractice\firstSolution\prac05_computeMethod\obj\Debug\prac05_computeMethod.pdb

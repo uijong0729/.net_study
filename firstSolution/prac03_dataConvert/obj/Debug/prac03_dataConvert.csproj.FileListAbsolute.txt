@@ -1,0 +1,7 @@
+D:\visualStudioCodePractice\firstSolution\prac03_dataConvert\bin\Debug\prac03_dataConvert.exe.config
+D:\visualStudioCodePractice\firstSolution\prac03_dataConvert\bin\Debug\prac03_dataConvert.exe
+D:\visualStudioCodePractice\firstSolution\prac03_dataConvert\bin\Debug\prac03_dataConvert.pdb
+D:\visualStudioCodePractice\firstSolution\prac03_dataConvert\obj\Debug\prac03_dataConvert.csproj.CoreCompileInputs.cache
+D:\visualStudioCodePractice\firstSolution\prac03_dataConvert\obj\Debug\prac03_dataConvert.exe
+D:\visualStudioCodePractice\firstSolution\prac03_dataConvert\obj\Debug\prac03_dataConvert.pdb
+D:\visualStudioCodePractice\firstSolution\prac03_dataConvert\obj\Debug\prac03_dataConvert.csprojAssemblyReference.cache

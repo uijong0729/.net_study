@@ -1,0 +1,7 @@
+D:\visualStudioCodePractice\firstSolution\prac02_dataType\bin\Debug\prac02_dataType.exe.config
+D:\visualStudioCodePractice\firstSolution\prac02_dataType\bin\Debug\prac02_dataType.exe
+D:\visualStudioCodePractice\firstSolution\prac02_dataType\bin\Debug\prac02_dataType.pdb
+D:\visualStudioCodePractice\firstSolution\prac02_dataType\obj\Debug\prac02_dataType.csprojAssemblyReference.cache
+D:\visualStudioCodePractice\firstSolution\prac02_dataType\obj\Debug\prac02_dataType.csproj.CoreCompileInputs.cache
+D:\visualStudioCodePractice\firstSolution\prac02_dataType\obj\Debug\prac02_dataType.exe
+D:\visualStudioCodePractice\firstSolution\prac02_dataType\obj\Debug\prac02_dataType.pdb

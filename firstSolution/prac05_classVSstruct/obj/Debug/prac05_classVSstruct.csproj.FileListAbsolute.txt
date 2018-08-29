@@ -1,0 +1,6 @@
+D:\visualStudioCodePractice\firstSolution\prac05_classVSstruct\obj\Debug\prac05_classVSstruct.csproj.CoreCompileInputs.cache
+D:\visualStudioCodePractice\firstSolution\prac05_classVSstruct\bin\Debug\prac05_classVSstruct.exe.config
+D:\visualStudioCodePractice\firstSolution\prac05_classVSstruct\bin\Debug\prac05_classVSstruct.exe
+D:\visualStudioCodePractice\firstSolution\prac05_classVSstruct\bin\Debug\prac05_classVSstruct.pdb
+D:\visualStudioCodePractice\firstSolution\prac05_classVSstruct\obj\Debug\prac05_classVSstruct.exe
+D:\visualStudioCodePractice\firstSolution\prac05_classVSstruct\obj\Debug\prac05_classVSstruct.pdb

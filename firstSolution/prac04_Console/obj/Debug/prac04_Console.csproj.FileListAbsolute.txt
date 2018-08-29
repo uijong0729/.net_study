@@ -1,0 +1,6 @@
+D:\visualStudioCodePractice\firstSolution\prac04_Console\bin\Debug\prac04_Console.exe.config
+D:\visualStudioCodePractice\firstSolution\prac04_Console\bin\Debug\prac04_Console.exe
+D:\visualStudioCodePractice\firstSolution\prac04_Console\bin\Debug\prac04_Console.pdb
+D:\visualStudioCodePractice\firstSolution\prac04_Console\obj\Debug\prac04_Console.csproj.CoreCompileInputs.cache
+D:\visualStudioCodePractice\firstSolution\prac04_Console\obj\Debug\prac04_Console.exe
+D:\visualStudioCodePractice\firstSolution\prac04_Console\obj\Debug\prac04_Console.pdb

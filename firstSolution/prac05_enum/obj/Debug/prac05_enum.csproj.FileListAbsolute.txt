@@ -1,0 +1,6 @@
+D:\visualStudioCodePractice\firstSolution\prac05_enum\bin\Debug\prac05_enum.exe.config
+D:\visualStudioCodePractice\firstSolution\prac05_enum\bin\Debug\prac05_enum.exe
+D:\visualStudioCodePractice\firstSolution\prac05_enum\bin\Debug\prac05_enum.pdb
+D:\visualStudioCodePractice\firstSolution\prac05_enum\obj\Debug\prac05_enum.csproj.CoreCompileInputs.cache
+D:\visualStudioCodePractice\firstSolution\prac05_enum\obj\Debug\prac05_enum.exe
+D:\visualStudioCodePractice\firstSolution\prac05_enum\obj\Debug\prac05_enum.pdb

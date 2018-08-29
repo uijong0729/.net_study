@@ -1,0 +1,7 @@
+D:\visualStudioCodePractice\firstSolution\prac06_grammer\bin\Debug\prac06_grammer.exe.config
+D:\visualStudioCodePractice\firstSolution\prac06_grammer\bin\Debug\prac06_grammer.exe
+D:\visualStudioCodePractice\firstSolution\prac06_grammer\bin\Debug\prac06_grammer.pdb
+D:\visualStudioCodePractice\firstSolution\prac06_grammer\obj\Debug\prac06_grammer.csprojAssemblyReference.cache
+D:\visualStudioCodePractice\firstSolution\prac06_grammer\obj\Debug\prac06_grammer.csproj.CoreCompileInputs.cache
+D:\visualStudioCodePractice\firstSolution\prac06_grammer\obj\Debug\prac06_grammer.exe
+D:\visualStudioCodePractice\firstSolution\prac06_grammer\obj\Debug\prac06_grammer.pdb
