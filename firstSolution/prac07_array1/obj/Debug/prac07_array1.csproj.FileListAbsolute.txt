@@ -1,0 +1,7 @@
+D:\visualStudioCodePractice\firstSolution\prac07_array1\bin\Debug\prac07_array1.exe.config
+D:\visualStudioCodePractice\firstSolution\prac07_array1\bin\Debug\prac07_array1.exe
+D:\visualStudioCodePractice\firstSolution\prac07_array1\bin\Debug\prac07_array1.pdb
+D:\visualStudioCodePractice\firstSolution\prac07_array1\obj\Debug\prac07_array1.csprojAssemblyReference.cache
+D:\visualStudioCodePractice\firstSolution\prac07_array1\obj\Debug\prac07_array1.csproj.CoreCompileInputs.cache
+D:\visualStudioCodePractice\firstSolution\prac07_array1\obj\Debug\prac07_array1.exe
+D:\visualStudioCodePractice\firstSolution\prac07_array1\obj\Debug\prac07_array1.pdb

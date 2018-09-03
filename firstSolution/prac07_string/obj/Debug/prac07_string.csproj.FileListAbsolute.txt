@@ -1,0 +1,6 @@
+D:\visualStudioCodePractice\firstSolution\prac07_string\bin\Debug\prac07_string.exe.config
+D:\visualStudioCodePractice\firstSolution\prac07_string\bin\Debug\prac07_string.exe
+D:\visualStudioCodePractice\firstSolution\prac07_string\bin\Debug\prac07_string.pdb
+D:\visualStudioCodePractice\firstSolution\prac07_string\obj\Debug\prac07_string.csproj.CoreCompileInputs.cache
+D:\visualStudioCodePractice\firstSolution\prac07_string\obj\Debug\prac07_string.exe
+D:\visualStudioCodePractice\firstSolution\prac07_string\obj\Debug\prac07_string.pdb

@@ -1,0 +1,6 @@
+D:\visualStudioCodePractice\firstSolution\prac07_binaryIO\bin\Debug\prac07_binaryIO.exe.config
+D:\visualStudioCodePractice\firstSolution\prac07_binaryIO\bin\Debug\prac07_binaryIO.exe
+D:\visualStudioCodePractice\firstSolution\prac07_binaryIO\bin\Debug\prac07_binaryIO.pdb
+D:\visualStudioCodePractice\firstSolution\prac07_binaryIO\obj\Debug\prac07_binaryIO.csproj.CoreCompileInputs.cache
+D:\visualStudioCodePractice\firstSolution\prac07_binaryIO\obj\Debug\prac07_binaryIO.exe
+D:\visualStudioCodePractice\firstSolution\prac07_binaryIO\obj\Debug\prac07_binaryIO.pdb
