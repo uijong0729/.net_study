@@ -1,0 +1,6 @@
+D:\visualStudioCodePractice\firstSolution\prac07_Serialize2\bin\Debug\prac07_Serialize2.exe.config
+D:\visualStudioCodePractice\firstSolution\prac07_Serialize2\bin\Debug\prac07_Serialize2.exe
+D:\visualStudioCodePractice\firstSolution\prac07_Serialize2\bin\Debug\prac07_Serialize2.pdb
+D:\visualStudioCodePractice\firstSolution\prac07_Serialize2\obj\Debug\prac07_Serialize2.csproj.CoreCompileInputs.cache
+D:\visualStudioCodePractice\firstSolution\prac07_Serialize2\obj\Debug\prac07_Serialize2.exe
+D:\visualStudioCodePractice\firstSolution\prac07_Serialize2\obj\Debug\prac07_Serialize2.pdb
