@@ -1,0 +1,7 @@
+D:\visualStudioCodePractice\firstSolution\prac09_indexproperty\bin\Debug\prac09_indexproperty.exe.config
+D:\visualStudioCodePractice\firstSolution\prac09_indexproperty\bin\Debug\prac09_indexproperty.exe
+D:\visualStudioCodePractice\firstSolution\prac09_indexproperty\bin\Debug\prac09_indexproperty.pdb
+D:\visualStudioCodePractice\firstSolution\prac09_indexproperty\obj\Debug\prac09_indexproperty.csprojAssemblyReference.cache
+D:\visualStudioCodePractice\firstSolution\prac09_indexproperty\obj\Debug\prac09_indexproperty.csproj.CoreCompileInputs.cache
+D:\visualStudioCodePractice\firstSolution\prac09_indexproperty\obj\Debug\prac09_indexproperty.exe
+D:\visualStudioCodePractice\firstSolution\prac09_indexproperty\obj\Debug\prac09_indexproperty.pdb
