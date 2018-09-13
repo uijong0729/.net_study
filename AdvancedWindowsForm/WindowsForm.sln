@@ -5,6 +5,14 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF01_eventHandler", "WF01_eventHandler\WF01_eventHandler.csproj", "{FB8B7D1A-94E6-42DB-B3C4-0670EE9E2CEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF02_Key", "WF02_Key\WF02_Key.csproj", "{83D4B53B-2F52-43D5-BFA4-770F222EA780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF03_Mouse", "WF03_Mouse\WF03_Mouse.csproj", "{0324D9BE-8CFD-4329-BCE5-A8420251C717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF03_Mouse2", "WF03_Mouse2\WF03_Mouse2.csproj", "{2024D352-9AAD-4E34-9FEE-D80679177D04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF03_Mouse3", "WF03_Mouse3\WF03_Mouse3.csproj", "{676E4DC7-BB24-4B23-BBB5-CFE4EC8A914E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +23,22 @@ Global
 		{FB8B7D1A-94E6-42DB-B3C4-0670EE9E2CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB8B7D1A-94E6-42DB-B3C4-0670EE9E2CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB8B7D1A-94E6-42DB-B3C4-0670EE9E2CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D4B53B-2F52-43D5-BFA4-770F222EA780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D4B53B-2F52-43D5-BFA4-770F222EA780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D4B53B-2F52-43D5-BFA4-770F222EA780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D4B53B-2F52-43D5-BFA4-770F222EA780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0324D9BE-8CFD-4329-BCE5-A8420251C717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0324D9BE-8CFD-4329-BCE5-A8420251C717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0324D9BE-8CFD-4329-BCE5-A8420251C717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0324D9BE-8CFD-4329-BCE5-A8420251C717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2024D352-9AAD-4E34-9FEE-D80679177D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2024D352-9AAD-4E34-9FEE-D80679177D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2024D352-9AAD-4E34-9FEE-D80679177D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2024D352-9AAD-4E34-9FEE-D80679177D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676E4DC7-BB24-4B23-BBB5-CFE4EC8A914E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676E4DC7-BB24-4B23-BBB5-CFE4EC8A914E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676E4DC7-BB24-4B23-BBB5-CFE4EC8A914E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676E4DC7-BB24-4B23-BBB5-CFE4EC8A914E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
